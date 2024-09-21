@@ -41,6 +41,15 @@ Welcome to the **Tic-Tac-Toe** game built with a custom AI using reinforcement l
    - If you want to use a pre-trained model for the AI, you can place the model file (`.pth`) in the `models` directory.
    - If you don't have one, the AI will start training from scratch and save the model after training.
 
+## How to train custom Agent
+
+1. **Training**:
+    Run trainer.py. Set number of games to be played. Recommended number is at least 10000.
+    As result you will get agentX and agent0  models in 'models' directory.
+    ```bash
+    python trainer.py
+    ```
+   
 ## How to Play
 
 1. **Run the game**:

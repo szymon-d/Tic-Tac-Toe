@@ -1,5 +1,7 @@
 from utils.environment import train
 
-#Train agents
-train(200, load_pretrained=True)
+number_of_games = 10000
+
+#Train agent
+train(number_of_games, load_pretrained=False)
 
