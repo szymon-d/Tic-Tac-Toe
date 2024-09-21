@@ -22,8 +22,8 @@ Welcome to the **Tic-Tac-Toe** game built with a custom AI using reinforcement l
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/tictactoe-ai.git
-    cd tictactoe-ai
+    git https://github.com/szymon-d/Tic-Tac-Toe.git
+    cd Tic-Tac-Toe
     ```
 
 2. **Create a Python virtual environment (optional)**:
@@ -46,7 +46,7 @@ Welcome to the **Tic-Tac-Toe** game built with a custom AI using reinforcement l
 1. **Run the game**:
     To start the game, simply run:
     ```bash
-    python main.py
+    python play.py
     ```
 
 2. **Gameplay**:
