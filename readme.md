@@ -5,6 +5,7 @@ Welcome to the **Tic-Tac-Toe** game built with a custom AI using reinforcement l
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
+- [How to train custom Agent](#how-to-train-custom-agent)
 - [How to Play](#how-to-play)
 - [Game Rules](#game-rules)
 - [AI Agent](#ai-agent)
